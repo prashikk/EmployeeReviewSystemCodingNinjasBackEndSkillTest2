@@ -20,16 +20,4 @@ To install all the dependences of the project, run the following command:
     npm start
 
 
-#### Source Code:
- - Link : https://github.com/shakti1590/employee-review-sys
-
-
-#### Deployment Link:
- - Link : https://employee-review-sys.vercel.app/
-
-
-
-<p align="center">
-  Show some :heart: by starring the repository.
-</p>
 
