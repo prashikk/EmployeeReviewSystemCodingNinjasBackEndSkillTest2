@@ -11,13 +11,5 @@ Employee review system webapp is an online platform designed to assist companies
  - EJS
  
 
- ## Install
-
-To install all the dependences of the project, run the following command:
-
-    git clone https://github.com/shakti1590/employee-review-sys.git
-    npm install
-    npm start
-
 
 
